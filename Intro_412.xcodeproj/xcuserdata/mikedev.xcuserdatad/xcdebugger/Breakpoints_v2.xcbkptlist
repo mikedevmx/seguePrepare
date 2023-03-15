@@ -3,4 +3,146 @@
    uuid = "A31927DF-20BC-4EC5-B95B-4F6007ABADD5"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92E82A4F-4228-4708-868A-D0531B020A7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Intro_412/vcManejoConexion.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vcReceptor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "vcReceptor"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D - 86af49b75b3afefc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Intro_412.vcReceptor.receivedString.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Intro_412"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikedev/Documents/2023-A/Mac412/Intro_412/vcReceptor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D - 44d5360d3c20c6f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Intro_412.vcReceptor.receivedString.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Intro_412"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikedev/Documents/2023-A/Mac412/Intro_412/vcReceptor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D - 2133c62cf2e91cc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Intro_412.vcReceptor.receivedString.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Intro_412"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikedev/Documents/2023-A/Mac412/Intro_412/vcReceptor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D - 5463b5a7f3508a1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Intro_412.vcReceptor.receivedString.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Intro_412"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikedev/Documents/2023-A/Mac412/Intro_412/vcReceptor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D - 62fb3c59dfe195a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Intro_412.vcReceptor.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Intro_412.vcReceptor"
+                  moduleName = "Intro_412"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikedev/Documents/2023-A/Mac412/Intro_412/vcReceptor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3BD2C7FB-0171-4C68-96DF-F1E34FE1483D - 611bff1f08b86672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Intro_412.vcReceptor.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Intro_412.vcReceptor&gt;"
+                  moduleName = "Intro_412"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikedev/Documents/2023-A/Mac412/Intro_412/vcReceptor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3BA8476-0E4F-4469-A131-568DF7B6CC3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vcReceptor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

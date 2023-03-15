@@ -9,22 +9,20 @@ import Cocoa
 
 class vcManejoConexion: NSViewController {
     
-    override func viewDidLoad() {
-        boton.adjustPageHeightNew(<#T##newBottom: UnsafeMutablePointer<CGFloat>##UnsafeMutablePointer<CGFloat>#>, top: <#T##CGFloat#>, bottom: <#T##CGFloat#>, limit: <#T##CGFloat#>)
-    }
-
+    var titulo:String?
+    
     @IBOutlet weak var boton: NSButton!
     
     @IBAction func cambioVentana(_ sender: NSButton) {
         
         performSegue(withIdentifier: "irCodigo", sender: self)
-        
     }
     
     override func prepare(for segue: NSStoryboardSegue, sender: Any?) {
         if segue.identifier == "irCodigo" {
             let destinationVC = segue.destinationController as! vcReceptor
-            destinationVC.receivedString = texto.stringValue
+            destinationVC.receivedString = boton.title
+            
         }
     }
     @IBOutlet weak var texto: NSTextFieldCell!
